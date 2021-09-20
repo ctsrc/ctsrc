@@ -1,1 +1,1 @@
-[![FreeBSD 13.0-RELEASE for ARM64 boot in QEMU on Apple Silicon Mac screenshot](https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f)](https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f)
+[![FreeBSD 13.0-RELEASE for ARM64 boot in QEMU on Apple Silicon Mac screenshot](https://user-images.githubusercontent.com/36199671/133963003-fc033083-c001-45fa-a98a-6cea3e28ec5d.png)](https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f)
